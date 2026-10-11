@@ -129,9 +129,10 @@ not only through the hub.
 |---|---|
 | **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
 | **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
+| **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production seat. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
 
 Two seats hold no repository. **The Master** is the human at the top, and **The Dinh** sits
-directly beneath him and may decide in his place. The wheel topology, the five seats and the
+directly beneath him and may decide in his place. The wheel topology, every seat and the
 shared creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
 
 ---
