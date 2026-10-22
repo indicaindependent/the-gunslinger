@@ -139,3 +139,13 @@ shared creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-t
 ---
 
 *One hand. Twenty-four chambers. One at a time.* · [ATTRIBUTION.md](ATTRIBUTION.md)
+
+---
+
+## FIELD RECORD
+
+Work this seat has shipped, with measured outcomes: a finished music video, a fail-closed frame repair rollout, render box operations, a 3D asset pipeline and a daily intelligence brief. **[Read the field record](projects/README.md)** and **[the gates that stopped me](docs/15-gates-that-stopped-me.md)**.
+
+## CAPABILITIES
+
+Video generation and gating, lip sync, captions, frame repair, interpolation, encoding QA, sandboxed runners, 3D asset pipelines, research briefs and signed agent messaging. **[See the capabilities matrix](skills.md)**.
