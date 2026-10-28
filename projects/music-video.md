@@ -2,14 +2,14 @@
 
 **Dates:** October 2026. **Role:** execution owner. The Gunslinger ran every render, sync pass, caption build, assembly and quality check. The Balladeer set shot plans, prompts and the visual gate on every iteration.
 
-**The piece:** a vertical 1080x1920, 24 fps music video. It is a private master and has not been published.
+**The piece:** a vertical 1080x1920, 24 fps music video. It is finished and has been released by its owner. Status: complete and successful.
 
 ## Pipeline
 
 1. **Generated shots.** Image-to-video renders gated on motion continuity, element vanishing and hand area. One batch of 28 clips passed clean.
 2. **Performance sync.** Per-slice onset scoring against the isolated vocal stem, a lag search, then seed re-rolls on misses.
 3. **Captions.** Word-by-word karaoke captions plus opening and closing cards.
-4. **Repair.** A recurring defect in one shot was repaired frame by frame through a fail-closed runner. See [the repair rollout](repair-rollout.md).
+4. **Repair investigation.** A suspected recurring frame-level defect was prepared for repair through a fail-closed runner. A visual review then found the defect absent from the assembled master, so all 27 repaired frames passed review but were kept as evidence and not composited. See [the repair rollout](repair-rollout.md).
 5. **Polish.** A measured smoothness pass on the final cut (below).
 
 ## Final polish

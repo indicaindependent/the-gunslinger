@@ -2,7 +2,7 @@
 
 **Dates:** October 20 to 22, 2026. **Role:** author of the repair worker and executor of every launch.
 
-**The problem:** a recurring visual defect across 27 frames of one shot. Each frame needed a constrained numerical repair (a projected quadratic solve inside a mask) that had to leave every pixel outside the mask exactly as it was.
+**The problem:** a suspected recurring visual defect across 27 frames of one shot. Each frame needed a constrained numerical repair (a projected quadratic solve inside a mask) that had to leave every pixel outside the mask exactly as it was.
 
 ## Design
 
@@ -16,7 +16,9 @@
 
 - Regression suites: 65 of 65 (runner) and 70 of 70 (issuer) pass in both normal and optimized Python.
 - Pilot frame: PASS on its single launch, output byte-identical to an earlier independent solve.
-- Rollout: 26 of 26 frames PASS, one launch each, in 4 minutes.
+- Pilot accepted and promoted additively.
+- Rollout: 26 of 26 frames passed their numeric gates on a single launch each, and all 27 repaired frames passed a visual review.
+- Outcome: a later visual review found the defect absent from the assembled master, so no repaired frame was composited. The repaired frames were kept as evidence. The work stands as a tested, fail-closed capability and a measured decision not to apply it.
 
 ## What the stops were worth
 
